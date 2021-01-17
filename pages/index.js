@@ -5,7 +5,7 @@ const Code = (p) => <code className={styles.inlineCode} {...p} />
 const IndexPage = () => (
   <div className={styles.container}>
     <div className={styles.card}>
-      <h1>Environment Variables with Next.js</h1>
+      <h1>update git</h1>
       <hr className={styles.hr} />
       <p>
         In the table below you'll see how{' '}
